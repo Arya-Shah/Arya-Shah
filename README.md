@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Shah</h1>
-<h3 align="center">A passionate frontend/Backend(Learning) developer from India</h3>
+<h3 align="center">I'm passionate frontend/Backend(Learning) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya-shah" alt="arya-shah" /> </p>
 
